@@ -41,7 +41,7 @@
           <li class="current"><a href="#intro">Home</a></li>
           <li><a href="#profildesa">profil</a></li>
           <li><a href="#services">Lembaga</a></li>
-          <li><a href="#team">STOK</a></li>
+          <li><a href="#team">organisasi</a></li>
           <li><a href="#agenda">Transparansi</a></li>
           <li><a href="#beritadesa">Berita</a></li>
           <!-- <li><a href="#bottom-widget">Info</a></li> -->
